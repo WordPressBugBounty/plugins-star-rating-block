@@ -1,0 +1,1 @@
+# plugins-star-rating-block
